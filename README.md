@@ -1,5 +1,5 @@
 # 🏦 Loan Approval Prediction
-### *I reduced my model accuracy from 98% to ~88% — and that was the win.*
+### *I reduced my model accuracy from 98% to ~88% and that was the win.*
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)
